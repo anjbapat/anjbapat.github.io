@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intern on Anjali Bapat Resume</title>
+    <link>/categories/intern/</link>
+    <description>Recent content in intern on Anjali Bapat Resume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/intern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume with Hugo-Orbit-Theme</title>
+      <link>/post/resume-with-hugo-orbit-theme/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/resume-with-hugo-orbit-theme/</guid>
+      <description>Skills: . Knowledge and application of Linear and Logistic Regression, data warehousing, data mining (including rule-based systems, decision tree), Clustering. . Proficient knowledge in statistics, machine Learning algorithms and analytics with excellent understanding of business operations and analytics tool for effective data analysis. . Knowledge of creating well-designed data visualizations with appropriate tools. . Understanding and experience with different visualizations in Rstudio.
+Ongoing Projects: Data Analytics Project MIMIC-III Database This project deals with MIMIC-III database.</description>
+    </item>
+    
+  </channel>
+</rss>

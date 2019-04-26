@@ -1,0 +1,31 @@
+---
+title: Resume with Hugo-Orbit-Theme
+author: Anjali Bapat
+date: '2019-04-20'
+categories:
+  - Data Science
+  - intern
+  - R
+  - Resume
+  - Rmarkdown
+tags:
+  - plot
+  - R Markdown
+slug: resume-with-hugo-orbit-theme
+---
+
+
+
+<p>Skills: . Knowledge and application of Linear and Logistic Regression, data warehousing, data mining (including rule-based systems, decision tree), Clustering. . Proficient knowledge in statistics, machine Learning algorithms and analytics with excellent understanding of business operations and analytics tool for effective data analysis. . Knowledge of creating well-designed data visualizations with appropriate tools. . Understanding and experience with different visualizations in Rstudio.</p>
+<p>Ongoing Projects: Data Analytics Project MIMIC-III Database This project deals with MIMIC-III database. The MIMIC III database is contains information about patients treated in a top medical center. It contains record of more than 50,000 patients and for 10 years. Few tables contain granular level data including every hour details of patients those are admitted in ICU. The total number of data points recorded exceeds 300 million. A significant amount of interesting findings have been reported from research using this database.<br />
+This project doesn’t actually conduct analytical studies, but will focus on exploring the characteristics of the data and, as a part of the exercise, extracting subsets of data to prepare for possible studies.</p>
+<p>Preface This project analyses the MIMIC III database and performs analytical studies to extract below information. 1. How frequently heart patients visit the medical center? 2. What are the most common diseases? 3. In what rate certain diseases spread? 4. How certain diseases have been reduced? 5. How mortality rates have been changed?</p>
+<p>Acquiring and building the MIMIC III database Many datasets/databases in the real world contain private information that requires proper handling. The MIMIC III data certainly fall into this category. In order to access this database, we have gone through training and requested permission from the MIMIC III management group. The MIMIC III website is at <a href="https://mimic.physionet.org" class="uri">https://mimic.physionet.org</a>.</p>
+<p>Challenges faced to load data:</p>
+<p>While loading datasets from csv to MySQL database, we faced few challenges. LOAD DATA LOCAL INFILE (..) has thrown error. ERROR 1148: The used command is not allowed with this MySQL version</p>
+<p>How did we resolve issue? 1. We found that, after MySQL version 8.0.1, MySQL doesn’t allow to load local files as local_infile is set to OFF by default. We tried below command before running insert script, but it didn’t work SET GLOBAL local_infile = TRUE; 2. We tried LOAD DATA INFILE (..) command instead of LOCAL, but it didn’t work and gave below error. 3. We have researched about the error and secure-file-priv parameter and after that, went to the location C:/ProgramData/MySQL/MySQL Server 8.0/my.ini 4. Searched for parameter secure-file-priv and found below line in my.ini file secure-file-priv=“C:/ProgramData/MySQL/MySQL Server 8.0/Uploads” 5. We have copied input csv files in the location C:/ProgramData/MySQL/MySQL Server 8.0/Uploads 6. We have executed the scripts LOAD DATA INFILE (..) with the input path C:/ProgramData/MySQL/MySQL Server. This step has successfully loaded data from csv files into the MySQL database. 7. We had following error.</p>
+<p>To resolve this we tried following steps: - In the application menu, select Edit &gt; Preferences &gt; SQL Editor. - Look for the MySQL Session section and increase the DBMS connection read time out value. Understanding the MIMIC III database</p>
+<p>In this section, Dataset will be described in details. The detailed description includes schema and structure of tables.</p>
+<p>Exploring major characteristics of the MIMIC III data This is an open-ended part of the project. Your task is to characterize the data about the patients and the treatment that they received during their ICU stay by querying the database. Examples may include basic statistics about patients, for example, how many patients were treated in each year, and more advanced questions such as “what are the top ten most frequently performed procedures for patients with diabetes” and “whether there are differences between different genders”. You are encouraged to use plots and other tools to help explain the characteristics. Please note that insightful characteristics can only come from a good understanding of the database.</p>
+<p>Preparing MIMIC data for analytical studies In the part, we examine an analytical study that requires data from the MIMIC III database is an open-ended part.</p>
+<p>Acknowledgement: 1. <a href="https://mimic.physionet.org" class="uri">https://mimic.physionet.org</a> 2. Secondary Analysis of Electronic Health Records by SpringerOpen (online)</p>

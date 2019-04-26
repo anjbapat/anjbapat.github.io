@@ -1,0 +1,584 @@
+[0m[0KMicrosoft Windows [Version 10.0.17134.706][0K[?25l
+(c) 2018 Microsoft Corporation. All rights reserved.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\[0KP
+roblemset4>[0K[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K
+[0K[1A[92G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>w[0K
+[0K[1A[93G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>wh[0K
+[0K[1A[94G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>whi[0K
+[0K[1A[95G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>whic[0K
+[0K[1A[96G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>which[0K
+[0K[1A[97G[?25h[98G[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>which g[0K
+[0K[1A[99G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>which gi[0K
+[0K[1A[100G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>which git[0K
+[0K[1A[101G[?25h[?25l
+'which' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hg[0Ki[0Kt[0K[96G[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git -[0K[?25h-[0Kv[0Ke[0Kr[0Ks[0Ki[0Ko[0K[0Kn[?25l
+[0K[?25h]0;  - git  --version[?25l
+[0K[?25hgit version 2.21.0.windows.1[0K[?25l
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hgit config -[0K-[?25l
+global user.email 'jane@example.com'[0K[?25ha[0Kn[0Kj[0Ka[0Kl[0Ki[0Kb[0Ka[0Kp[0Ka[0Kt[0K2[0K5[0K@[0Kh[0Ko[0Kt[0Km[0Ka[0Ki[0Kl[0K.[0Kc[0Ko[0Km[0K'[0K[62G[61G[60G[59G[58G[57G[56G[55G[54G[53G[52G[51G[49G[48G[47G[46G[45G[44G[43G[42G[41G[39G[37G[36G[35G[34G[33G[34G[35G[?25lglobal user.email 'jane@example.cm'anjalibapat25@hotmail.com'[0K[34G[?25h[?25lglobal user.email 'jane@example.m'anjalibapat25@hotmail.com'[0K[33G[?25h[?25lglobal user.email 'jane@examplem'anjalibapat25@hotmail.com'[0K[32G[?25h[?25lglobal user.email 'jane@examplm'anjalibapat25@hotmail.com'[0K[31G[?25h[?25lglobal user.email 'jane@exampm'anjalibapat25@hotmail.com'[0K[30G[?25h[?25lglobal user.email 'jane@examm'anjalibapat25@hotmail.com'[0K[29G[?25h[?25lglobal user.email 'jane@exam'anjalibapat25@hotmail.com'[0K[28G[?25h[?25lglobal user.email 'jane@exm'anjalibapat25@hotmail.com'[0K[27G[?25h[?25lglobal user.email 'jane@em'anjalibapat25@hotmail.com'[0K[26G[?25h[?25lglobal user.email 'jane@m'anjalibapat25@hotmail.com'[0K[25G[?25h[?25lglobal user.email 'janem'anjalibapat25@hotmail.com'[0K[24G[?25h[?25lglobal user.email 'janm'anjalibapat25@hotmail.com'[0K[23G[?25h[?25lglobal user.email 'jam'anjalibapat25@hotmail.com'[0K[22G[?25h[?25lglobal user.email 'jm'anjalibapat25@hotmail.com'[0K[21G[?25h[?25lglobal user.email 'm'anjalibapat25@hotmail.com'[0K[20G[?25h[?25lglobal user.email ''anjalibapat25@hotmail.com'[0K[20G[?25h[?25lglobal user.email 'anjalibapat25@hotmail.com'[0K[19G[?25h]0;  - git  config --global user.email 'anjalibapat25@hotmail.com'[?25l
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25h^V[0K[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hgit config -[0K-[?25l
+global user.name 'Jane Doe'[0K[?25h[?25lglobal user.name 'Jane Doe[0K[?25h[?25lglobal user.name 'Jane Do[0K[?25h[?25lglobal user.name 'Jane D[0K[?25h[?25lglobal user.name 'Jane[0K[24G[?25h[23G[?25lglobal user.name 'Jan[0K[?25h[?25lglobal user.name 'Ja[0K[?25h[?25lglobal user.name 'J[0K[?25h[?25lglobal user.name '[0K[?25ha[0Kn[0Kj[0Kb[0Ka[0Kp[0Ka[0Kt[0K'[0K]0;  - git  config --global user.name 'anjbapat'[?25l
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hgit config -[0K-[?25l
+global --list[0K[?25h]0;  - git  config --global --list[?25l
+[0K[?25huser.email='anjalibapat25@hotmail.com'[0K[?25l
+user.name='anjbapat'[0K
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hgit clone ht[0Kt[?25l
+ps://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPOSITORY.gi[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPOSITORY.g[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPOSITORY.[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPOSITORY[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPOSITOR[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPOSITO[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPOSIT[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPOSI[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPOS[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REPO[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-REP[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-RE[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-R[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR-[0K[?25h[?25lps://github.com/YOUR-USERNAME/YOUR[0K[?25h[?25lps://github.com/YOUR-USERNAME/YO[0K[?25h[?25lps://github.com/YOUR-USERNAME/Y[0K[?25h[?25lps://github.com/YOUR-USERNAME/[0K[?25h[?25lps://github.com/YOUR-USERNAME[0K[?25h[?25lps://github.com/YOUR-USERNA[0K[?25h[?25lps://github.com/YOUR-USERN[0K[?25h[?25lps://github.com/YOUR-USER[0K[?25h[?25lps://github.com/YOUR-USE[0K[?25h[?25lps://github.com/YOUR-US[0K[?25h[?25lps://github.com/YOUR-U[0K[?25h[?25lps://github.com/YOUR-[0K[?25h[?25lps://github.com/YOUR[0K[?25h[?25lps://github.com/YOU[0K[?25h[?25lps://github.com/YO[0K[?25h[?25lps://github.com/Y[0K[?25h[?25lps://github.com/[0K[?25h[?25lps://github.com[0K[?25h[?25lps://github.co[0K[?25h[?25lps://github.c[0K[?25h[?25lps://github.[0K[?25h[?25lps://github[0K[?25h[?25lps://githu[0K[?25h[?25lps://gith[0K[?25h[?25lps://git[0K[?25h[?25lps://gi[0K[?25h[?25lps://g[0K[?25h[?25lps://[0K[?25h[?25lps:/[0K[?25h[?25lps:[0K[?25h[?25lp[0K[?25h[?25l[0K[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git clone ht[0K
+[0K[1A[104G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git clone h[0K
+[0K[1A[103G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git clone[0K
+[0K[1A[102G[?25h[101G[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git clon[0K
+[0K[1A[100G[?25h[101G[100G[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git clone[0K
+[0K[1A[101G[?25h[102G[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git clone ht[0Kt
+ps://github.com/anjbapat/anjbapat.github.io.git[0K[?25h]0;  - git  clone https://github.com/anjbapat/anjbapat.github.io.git[?25l
+[0K[?25hCloning into 'anjbapat.github.io'...[0K[?25l
+[0K[?25hremote: Enumerating objects: 3, done.[0K[?25l
+remote: Counting objects: 100% (3/3), done.[0K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[0K
+[0K[?25h[?25lUnpacking objects:  33% (1/3)[0K[1G[?25h[?25lUnpacking objects:  66% (2/3)[0K[1G[?25hUnpacking objects: 100% (3/3), done.[0K[?25l
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hc[0Kd[0K[95G[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>cd a[0K[?25hn[0Kj[0Kb[0Ka[0Kp[0Ka[0Kt[0K.[0K[0Kg[?25l
+[0K[?25hi[0Kt[0Kh[0Ku[0Kb[0K.[0Ki[0Ko[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hl[0Ks[0K[?25l
+[0K[?25h'ls' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hhead README.md[0K[22G[?25l
+[0K[?25h'head' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25h git remote show origin[0K[?25l
+[0K[?25h]0;  - git  remote show origin* remote origin[0K[?25l
+  Fetch URL: https://github.com/anjbapat/anjbapat.github.io.git[0K
+  Push  URL: https://github.com/anjbapat/anjbapat.github.io.git[0K
+  HEAD branch: sources[0K
+  Remote branches:[0K
+    master  tracked[0K
+    sources tracked[0K
+  Local branch configured for 'git pull':[0K
+    sources merges with remote sources[0K
+  Local ref configured for 'git push':[0K
+    sources pushes to sources (up to date)[0K
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25h^V[0K[?25lub.io>[0K[?25hecho "A line I wrote on my local computer" >> README.md[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hgit status[0K]0;  - git  status[?25l
+[0K[?25hOn branch sources[0K[?25l
+Your branch is up to date with 'origin/sources'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   README.md[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hgit add -A[0K]0;  - git  add -A[?25l
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hgit commit -m "A commit from my local computer"[0K[?25l
+[0K[?25h]0;  - git  commit -m "A commit from my local computer"]0; [sources c48dd57] A commit from my local computer[0K[?25l
+ 1 file changed, 1 insertion(+), 1 deletion(-)[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hgit push[0K]0;  - git  push[?25l
+[0K[?25hEnumerating objects: 5, done.[0K[?25l
+Counting objects: 100% (5/5), done.[0K
+Delta compression using up to 4 threads[0K
+Compressing objects: 100% (2/2), done.[0K
+Writing objects: 100% (3/3), 312 bytes | 104.00 KiB/s, done.[0K
+Total 3 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hTo https://github.com/anjbapat/anjbapat.github.io.git[0K[?25l
+   0101240..c48dd57  sources -> sources[0K
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hp[0Kw[0Kd[0K[?25l
+[0K[?25h'pwd' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hc[0Kd[0K.[0K.[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hrm -rf myrep[0Ko[?25l
+/[0K
+'rm' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hrm -rf myrep[0Ko[?25l
+/[0K[?25h[?25l[0K[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf myrep[0K
+[0K[1A[104G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf myre[0K
+[0K[1A[103G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf myr[0K
+[0K[1A[102G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf my[0K
+[0K[1A[101G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf m[0K
+[0K[1A[100G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf[0K
+[0K[1A[99G[?25h[98G[99G[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf a[0K
+[0K[1A[100G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf an[0K
+[0K[1A[101G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf anj[0K
+[0K[1A[102G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf anjb[0K
+[0K[1A[103G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf anjba[0K
+[0K[1A[104G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf anjba[0Kp
+[0K[?25ha[0Kt[0K.[0Kg[0Ki[0Kt[0Kh[0Ku[0Kb[0K.[0Ki[0Ko[0K/[0K[?25l
+'rm' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hls -al ~/.ss[0Kh[?25l
+/[0K[?25h[?25l
+'ls' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>[0K[?25hls -al ~/.ss[0Kh[?25l
+/[0K[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf anjba[0Kp
+at.github.io/[0K[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>rm -rf myrep[0Ko
+/[0K[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>cd..[0K
+[0K[1A[96G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>pwd[0K
+[0K[1A[95G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git push[0K
+[0K[1A[100G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git commit -[0Km
+ "A commit from my local computer"[0K[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git add -A[0K
+[0K[1A[102G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>git status[0K
+[0K[1A[102G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>echo "A line[0K
+I wrote on my local computer" >> README.md[0K[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4> git remote [0Ks
+how origin[0K[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>head README.[0Km
+d[0K[3G[?25h[?25l[1AG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>ls[0K
+[0K[1A[94G[?25h[?25lG:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4>cd anjbapat.[0Kg
+ithub.io[0K[?25h[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hls[0K[?25lub.io>head README.md[0K[22G[?25h[?25lub.io> git remote show origin[0K[?25h[?25lub.io>echo "A line I wrote on my local computer" >> README.md[0K[?25h[?25lub.io>git status[0K[?25h[?25lub.io>git add -A[0K[?25h[?25lub.io>git commit -m "A commit from my local computer"[0K[?25h[?25lub.io>git push[0K[?25h[?25lub.io>pwd[0K[?25h[?25lub.io>cd..[0K[?25h[?25lub.io>rm -rf myrepo/[0K[?25h[?25lub.io>rm -rf anjbapat.github.io/[0K[?25h[?25lub.io>ls -al ~/.ssh/[0K[?25h[?25l
+'ls' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25h^V[0K[?25lub.io>[0K[?25hclip < ~/.ssh/id_rsa.pub[0K[?25l
+The system cannot find the path specified.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hgit checkout sources[0K]0;  - git  checkout sources[?25l
+[0K[?25h]0; Already on 'sources'[0K[?25l
+Your branch is up to date with 'origin/sources'.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hbash setup.sh[0K[?25l
+'bash' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25h#!/usr/bin/env bash[0K[?25l
+'#!' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># This script does the required work to set up your personal GitHub Pages[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># repository for deployment using Hugo. Run this script only once -- when the[0K[7G[?25h[?25l
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># setup has been done, run the `deploy.sh` script to deploy changes and update[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># your website. See[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># https://hjdskes.github.io/blog/deploying-hugo-on-personal-github-pages/index.html[0K
+[0K[?25h'#' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># for more information.[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># GitHub username[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>USERNAME=hjdskes[0K
+'USERNAME' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># Name of the branch containing the Hugo source files.[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>SOURCE=hugo[0K
+'SOURCE' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K[?25h[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg() {[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>    printf "\033[1;32m :: %s\n\033[0m" "$1"[0K
+'printf' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>}[0K
+[0K[?25h'}' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Adding a README.md file to \'$SOURCE\' branch"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>touch README.md[0K
+'touch' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Deleting the \`master\` branch"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git branch -D master[0K[7G[?25h]0;  - git  branch -D master[?25l
+[0K[?25h]0;  - git  push origin --delete mastererror: branch 'master' not found.[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git push origin --delete master[0K
+[0K[?25hTo https://github.com/anjbapat/anjbapat.github.io.git[0K[?25l
+ - [deleted]         master[0K
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Creating an empty, orphaned \`master\` branch"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git checkout --orphan master[0K
+[0K[?25h]0;  - git  checkout --orphan master]0; Switched to a new branch 'master'[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git rm --cached $(git ls-files)[0K
+[0K[?25h]0;  - git  rm --cached $(git ls-files)fatal: pathspec '$(git' did not match any files[0K[?25l
+[0K[?25h]0;  - git  checkout "$SOURCE" README.md[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Grabbing one file from the \`$SOURCE\` branch so that a commit can be made"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git checkout "$SOURCE" README.md[0K
+[0K[?25herror: pathspec '$SOURCE' did not match any file(s) known to git[0K[?25l
+[0K[?25h]0;  - git  commit -m "Initial commit on master branch"[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git commit -m "Initial commit on master branch"[0K
+[0K[?25h[master (root-commit) 1034fb7] Initial commit on master branch[0K[?25l
+ 1 file changed, 1 insertion(+)[0K
+ create mode 100644 README.md[0K
+[0K[?25h]0;  - git  push origin master[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git push origin master[0K
+[0K[?25hEnumerating objects: 3, done.[0K[?25l
+Counting objects: 100% (3/3), done.[0K
+Delta compression using up to 4 threads[0K
+Compressing objects: 100% (2/2), done.[0K
+Writing objects: 100% (3/3), 283 bytes | 141.00 KiB/s, done.[0K
+Total 3 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'master' on GitHub by visiting:[0K
+remote:      https://github.com/anjbapat/anjbapat.github.io/pull/new/master[0K
+remote:[0K
+To https://githu[0K[1G[?25hTo https://github.com/anjbapat/anjbapat.github.io.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25h]0;  - git  checkout -f "$SOURCE"[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Returning to the \`$SOURCE\` branch"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git checkout -f "$SOURCE"[0K
+[0K[?25h]0; error: pathspec '$SOURCE' did not match any file(s) known to git[0K[?25l
+[0K[?25h]0;  - git  add -u[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Removing the \`public\` folder to make room for the \`master\` subtree"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>rm -rf public[0K
+'rm' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git add -u[0K
+[0K[?25h]0;  - git  commit -m "Remove stale public folder"[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git commit -m "Remove stale public folder"[0K
+[0K[?25hOn branch master[0K[?25l
+nothing to commit, working tree clean[0K
+[0K[?25h]0;  - git  subtree add --prefix=public \[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Adding the new \`master\` branch as a subtree"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git subtree add --prefix=public \[0K
+[0K[?25h'\' does not refer to a commit[0K[?25l
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>    git@github.com:$USERNAME/$USERNAME.github.io.git master --squash[0K
+[0K[?25hThe filename, directory name, or volume label syntax is incorrect.[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Pulling down the just committed file to help avoid merge conflicts"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K[?25h]0;  - git  subtree pull --prefix=public \[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git subtree pull --prefix=public \[0K
+[0K[?25h'public' does not exist; use 'git subtree add'[0K[?25l
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>    git@github.com:$USERNAME/$USERNAME.github.io.git master[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io.git maste[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io.git mast[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io.git mas[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io.git ma[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io.git m[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io.git[0K[60G[?25h[59G[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io.gi[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io.g[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io.[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.io[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github.[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.github[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.gith[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.git[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.gi[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.g[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME.[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAME[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNAM[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERNA[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USERN[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USER[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$USE[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$US[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$U[0K[?25h[?25lub.io>    git@github.com:$USERNAME/$[0K[?25h[?25lub.io>    git@github.com:$USERNAME/[0K[?25h[?25lub.io>    git@github.com:$USERNAME[0K[?25h[?25lub.io>    git@github.com:$USERNAM[0K[?25h[?25lub.io>    git@github.com:$USERNA[0K[?25h[?25lub.io>    git@github.com:$USERN[0K[?25h[?25lub.io>    git@github.com:$USER[0K[?25h[?25lub.io>    git@github.com:$USE[0K[?25h[?25lub.io>    git@github.com:$US[0K[?25h[?25lub.io>    git@github.com:$U[0K[?25h[?25lub.io>    git@github.com:$[0K[?25h[?25lub.io>    git@github.com:[0K[?25h[?25lub.io>    git@github.com[0K[?25h[?25lub.io>    git@github.co[0K[?25h[?25lub.io>    git@github.c[0K[?25h[?25lub.io>    git@github.[0K[?25h[?25lub.io>    git@github[0K[?25h[?25lub.io>    git@githu[0K[?25h[?25lub.io>    git@gith[0K[?25h[?25lub.io>    git@git[0K[?25h[?25lub.io>    git@gi[0K[?25h[?25lub.io>    git@g[0K[?25h[?25lub.io>    git@[0K[?25h[?25lub.io>    git[0K[?25h[?25lub.io>    gi[0K[?25h[?25lub.io>[0K[11G[?25h[10G[8G[7G[?25lub.io>#!/usr/bin/env bash[0K
+'#!' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># This script does the required work to set up your personal GitHub Pages[0K
+[0K[?25h'#' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># repository for deployment using Hugo. Run this script only once -- when the[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># setup has been done, run the `deploy.sh` script to deploy changes and update[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># your website. See[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># https://hjdskes.github.io/blog/deploying-hugo-on-personal-github-pages/index.html[0K[7G[?25h[?25l
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># for more information.[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># GitHub username[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>USERNAME=anjbapat[0K
+'USERNAME' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io># Name of the branch containing the Hugo source files.[0K
+'#' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>SOURCE=hugo[0K
+[0K[?25h'SOURCE' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg() {[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>    printf "\033[1;32m :: %s\n\033[0m" "$1"[0K
+'printf' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>}[0K
+'}' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Adding a README.md file to \'sources\' branch"[0K
+[0K[?25h]0;  - git  branch -D master'msg' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>touch README.md[0K
+'touch' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Deleting the \`master\` branch"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git branch -D master[0K
+[0K[?25h]0; error: Cannot delete branch 'master' checked out at 'G:/uncc- DSBA/First Semester- DSBA/DSBA 5122- Visu[0Ka[?25l
+l Analytics/Problem set/PS4/Problemset4/anjbapat.github.io'[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git push origin --delete master[0K
+[0K[?25h]0;  - git  push origin --delete masterTo https://github.com/anjbapat/anjbapat.github.io.git[0K[?25l
+ - [deleted]         master[0K
+[0K[?25h]0;  - git  checkout --orphan master[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Creating an empty, orphaned \`master\` branch"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git checkout --orphan master[0K
+[0K[?25h]0; fatal: A branch named 'master' already exists.[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git rm --cached $(git ls-files)[0K
+[0K[?25h]0;  - git  rm --cached $(git ls-files)fatal: pathspec '$(git' did not match any files[0K[?25l
+[0K[?25h]0;  - git  checkout "sources" README.md[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Grabbing one file from the \`sources\` branch so that a commit can be made"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git checkout "sources" README.md[0K
+[0K[?25h]0; Updated 0 paths from 63b60e4[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git commit -m "Initial commit on master branch"[0K
+[0K[?25h]0;  - git  commit -m "Initial commit on master branch"On branch master[0K[?25l
+nothing to commit, working tree clean[0K
+[0K[?25h]0;  - git  push origin master[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git push origin master[0K
+[0K[?25hEnumerating objects: 3, done.[0K[?25l
+Counting objects: 100% (3/3), done.[0K
+Delta compression using up to 4 threads[0K
+Compressing objects: 100% (2/2), done.[0K
+Writing objects: 100% (3/3), 283 bytes | 94.00 KiB/s, done.[0K
+Total 3 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'master' on GitHub by visiting:[0K
+remote:      https://github.com/anjbapat/anjbapat.github.io/pull/new/master[0K
+remote:[0K
+[0K[?25hTo https://github.com/anjbapat/anjbapat.github.io.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25h]0;  - git  checkout -f "sources"[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Returning to the \`sources\` branch"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git checkout -f "sources"[0K
+[0K[?25hSwitched to branch 'sources'[0K[?25l
+Your branch is up to date with 'origin/sources'.[0K
+[0K[?25h]0;  - git  add -u[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Removing the \`public\` folder to make room for the \`master\` subtree"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>rm -rf public[0K
+'rm' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git add -u[0K
+[0K[?25h]0;  - git  commit -m "Remove stale public folder"[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git commit -m "Remove stale public folder"[0K
+On branch sources[0K[1G[?25h]0; [?25l
+Your branch is up to date with 'origin/sources'.[0K
+[0K
+nothing to commit, working tree clean[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Adding the new \`master\` branch as a subtree"[0K
+[0K[?25h]0;  - git  subtree add --prefix=public \'msg' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git subtree add --prefix=public \[0K
+[0K[?25h'\' does not refer to a commit[0K[?25l
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>    git@github.com:anjbapat/anjbapat.github.io.git master --squash[0K
+The filename, directory name, or volume label syntax is incorrect.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>msg "Pulling down the just committed file to help avoid merge conflicts"[0K
+'msg' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>git subtree pull --prefix=public \[0K
+[0K[?25h]0;  - git  subtree pull --prefix=public \'public' does not exist; use 'git subtree add'[0K[?25l
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>    git@github.com:anjbapat/anjbapat.github.io.git master[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git maste[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git mast[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git mas[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git ma[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git m[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git[0K[58G[?25h[57G[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.gi[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.g[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.i[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.githu[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.gith[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.git[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.gi[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.g[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapa[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbap[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjba[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjb[0K[?25h[?25lub.io>    git@github.com:anjbapat/anj[0K[?25h[?25lub.io>    git@github.com:anjbapat/an[0K[?25h[?25lub.io>    git@github.com:anjbapat/a[0K[?25h[?25lub.io>    git@github.com:anjbapat/[0K[?25h[?25lub.io>    git@github.com:anjbapat[0K[?25h[?25lub.io>    git@github.com:anjbapa[0K[?25h[?25lub.io>    git@github.com:anjbap[0K[?25h[?25lub.io>    git@github.com:anjba[0K[?25h[?25lub.io>    git@github.com:anj[0K[?25h[?25lub.io>    git@github.com:an[0K[?25h[?25lub.io>    git@github.com:a[0K[?25h[?25lub.io>    git@github.com:[0K[?25h[?25lub.io>    git@github.com[0K[?25h[?25lub.io>    git@github.co[0K[?25h[?25lub.io>    git@github.c[0K[?25h[?25lub.io>    git@github.[0K[?25h[?25lub.io>    git@github[0K[?25h[?25lub.io>    git@githu[0K[?25h[?25lub.io>    git@gith[0K[?25h[?25lub.io>    git@git[0K[?25h[?25lub.io>    git@g[0K[?25h[?25lub.io>    git@[0K[?25h[?25lub.io>    gi[0K[?25h[?25lub.io>    g[0K[?25h[?25lub.io>[0K[11G[?25h[10G[9G[8G[7G]0;  - git  subtree pull --prefix=public \[?25lub.io>git subtree pull --prefix=public \[0K
+[0K[?25h]0; 'public' does not exist; use 'git subtree add'[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>    git@github.com:anjbapat/anjbapat.github.io.git master[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git maste[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git mast[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git mas[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git ma[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git m[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.git[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.gi[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.g[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io.[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.io[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.i[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github.[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.github[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.githu[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.gith[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.git[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.gi[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.g[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat.[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapat[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbapa[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjbap[0K[?25h[?25lub.io>    git@github.com:anjbapat/anjb[0K[?25h[?25lub.io>    git@github.com:anjbapat/anj[0K[?25h[?25lub.io>    git@github.com:anjbapat/a[0K[?25h[?25lub.io>    git@github.com:anjbapat/[0K[?25h[?25lub.io>    git@github.com:anjbapat[0K[?25h[?25lub.io>    git@github.com:anjbapa[0K[?25h[?25lub.io>    git@github.com:anjbap[0K[?25h[?25lub.io>    git@github.com:anjb[0K[?25h[?25lub.io>    git@github.com:anj[0K[?25h[?25lub.io>    git@github.com:an[0K[?25h[?25lub.io>    git@github.com:a[0K[?25h[?25lub.io>    git@github.com:[0K[?25h[?25lub.io>    git@github.com[0K[?25h[?25lub.io>    git@github.co[0K[?25h[?25lub.io>    git@github.c[0K[?25h[?25lub.io>    git@github.[0K[?25h[?25lub.io>    git@github[0K[?25h[?25lub.io>    git@githu[0K[?25h[?25lub.io>    git@gith[0K[?25h[?25lub.io>    git@git[0K[?25h[?25lub.io>    git@gi[0K[?25h[?25lub.io>    git@g[0K[?25h[?25lub.io>    git@[0K[?25h[?25lub.io>    git[0K[?25h[?25lub.io>    gi[0K[?25h[?25lub.io>    g[0K[?25h[?25lub.io>[0K[11G[?25h[10G[8G[7G[?25lub.io>git subtree pull --prefix=public \git@github.com:anjbapat/anjbapat.github.io.git master[0K[?25h]0;  - git  subtree pull --prefix=public \git@github.com:anjbapat/anjbapat.github.io.git master[?25l
+[0K[?25h]0; 'public' does not exist; use 'git subtree add'[0K[?25l
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25h[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25h[?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hg[0Ki[0Kt[0K[11G[?25lub.io>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
+[0K[?25hOn branch sources[0K[?25l
+Your branch is up to date with 'origin/sources'.[0K
+[0K
+nothing to commit, working tree clean[0K
+[0K[?25h]0; [?25l
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hexport LC_TIME=en_US.UTF-8[0K[?25l
+'export' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25hUSERNAME=hjdskes[0K[?25lub.io>USERNAME=hjdske[0K[?25h[?25lub.io>USERNAME=hjdsk[0K[?25h[?25lub.io>USERNAME=hjds[0K[?25h[?25lub.io>USERNAME=hjd[0K[?25h[?25lub.io>USERNAME=hj[0K[?25h[?25lub.io>USERNAME=h[0K[?25h[?25lub.io>USERNAME=[0K[?25h[?25lub.io>USERNAME[0K[?25h=[0Ka[0Kn[0Kj[0Kb[0Ka[0Kp[0Ka[0Kt[0K[?25l
+'USERNAME' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+G:\uncc- DSBA\First Semester- DSBA\DSBA 5122- Visual Analytics\Problem set\PS4\Problemset4\anjbapat.git[0Kh
+ub.io>[0K[?25h
