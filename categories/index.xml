@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Anjali Bapat Resume</title>
-    <link>/categories/</link>
+    <link>https://anjbapat.github.io/categories/</link>
     <description>Recent content in Categories on Anjali Bapat Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anjbapat.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Science</title>
-      <link>/categories/data-science/</link>
+      <link>https://anjbapat.github.io/categories/data-science/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/data-science/</guid>
+      <guid>https://anjbapat.github.io/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://anjbapat.github.io/categories/r/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>https://anjbapat.github.io/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>/categories/resume/</link>
+      <link>https://anjbapat.github.io/categories/resume/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/resume/</guid>
+      <guid>https://anjbapat.github.io/categories/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rmarkdown</title>
-      <link>/categories/rmarkdown/</link>
+      <link>https://anjbapat.github.io/categories/rmarkdown/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/rmarkdown/</guid>
+      <guid>https://anjbapat.github.io/categories/rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intern</title>
-      <link>/categories/intern/</link>
+      <link>https://anjbapat.github.io/categories/intern/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/intern/</guid>
+      <guid>https://anjbapat.github.io/categories/intern/</guid>
       <description></description>
     </item>
     
